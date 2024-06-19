@@ -1,4 +1,4 @@
-# Python Calculator Project README
+# Python Calculator Project
 
 ## Project Description
 
